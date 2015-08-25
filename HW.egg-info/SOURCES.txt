@@ -1,0 +1,10 @@
+HW.egg-info/PKG-INFO
+HW.egg-info/SOURCES.txt
+HW.egg-info/dependency_links.txt
+HW.egg-info/top_level.txt
+UserAPILib/APIUtils.py
+UserAPILib/__init__.py
+UserAPILib/userapikeywords.py
+UserLib/__init__.py
+UserLib/user.py
+UserLib/userkeywords.py
